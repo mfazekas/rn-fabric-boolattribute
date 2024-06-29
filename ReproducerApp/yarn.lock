@@ -3016,6 +3016,7 @@ __metadata:
     react: 18.2.0
     react-native: 0.74.2
     react-test-renderer: 18.2.0
+    rtn-centered-text: 1.0.0
     typescript: 5.0.4
   languageName: unknown
   linkType: soft
@@ -8330,6 +8331,15 @@ __metadata:
   checksum: 3ea587b981a19016297edb96d1ffe48af7e6af69660e3b371dbfc73722a73a0b0e9be5c88089fbeeb866c389c1098e07f64929c7414290504b855f54f901ab10
   languageName: node
   linkType: hard
+
+"rtn-centered-text@portal:/Users/boga/Work/OSS/RNMBGL/rn-fabric-boolattribute/RTNCenteredText::locator=ReproducerApp%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "rtn-centered-text@portal:/Users/boga/Work/OSS/RNMBGL/rn-fabric-boolattribute/RTNCenteredText::locator=ReproducerApp%40workspace%3A."
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  languageName: node
+  linkType: soft
 
 "run-parallel@npm:^1.1.9":
   version: 1.2.0
